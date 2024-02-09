@@ -12,6 +12,7 @@ p = 2 * math.pi * r
 
 
 # output
+
 print("El area es: " + str(a))
 print("El perimetro es: " + str(p))
 	
