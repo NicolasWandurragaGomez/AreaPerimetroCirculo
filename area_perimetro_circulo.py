@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import math
 
 
@@ -16,3 +17,6 @@ p = 2 * math.pi * r
 print("El area es: " + str(a))
 print("El perimetro es: " + str(p))
 	
+=======
+
+>>>>>>> 10326f8c6c4c47683b4f72f73eb2dc0e795278f0
